@@ -1,5 +1,3 @@
-# Projects
-
 Tech: Flask, GRAV CMS, Tailwind CSS, Nginx, JSON APIs
 Role: Lead Developer & Solution Architect
 
