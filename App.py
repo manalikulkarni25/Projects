@@ -13,7 +13,7 @@ import google.generativeai as genai
 # Load environment variables
 # ----------------------------
 # Direct API key (⚠️ Not recommended for production)
-genai.configure(api_key="AIzaSyAkoaMZMzceR1xaffziROk05iFw3jN8V00")
+genai.configure(api_key="Your_API_Key")
  
 app = Flask(__name__)
 uploaded_df = None
@@ -141,4 +141,5 @@ def ask():
 # ----------------------------
 if __name__ == "__main__":
     app.run(debug=True)
+
 
